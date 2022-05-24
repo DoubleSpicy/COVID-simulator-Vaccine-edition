@@ -9,3 +9,8 @@ Here try to investigate what would happen for HK's infection and death toll w.r.
 
 ## Results
 Surprisingly, CoronaVac...is not that bad! See the report for details.
+
+![Screenshot](https://github.com/DoubleSpicy/COVID-simulator-Vaccine-edition/blob/master/screenshot1.png?raw=true)
+
+
+![Screenshot](https://github.com/DoubleSpicy/COVID-simulator-Vaccine-edition/blob/master/discussion.png?raw=true)
